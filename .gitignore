@@ -31,3 +31,6 @@
 /snapshots
 
 secret.txt
+
+# local documentation
+/documentation
